@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#0d0d14"/>
+  <rect width="64" height="64" rx="12" fill="none" stroke="#1a1a22" stroke-width="1"/>
+  <path d="M10,10 L10,18 L18,18" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.4"/>
+  <circle cx="10" cy="18" r="2.5" fill="#00ff88" opacity="0.5"/>
+  <path d="M54,54 L54,46 L46,46" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.4"/>
+  <circle cx="54" cy="46" r="2.5" fill="#00ff88" opacity="0.5"/>
+  <text x="32" y="40" font-family="'Courier New',monospace" font-size="28" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="-2">gp</text>
+  <circle cx="46" cy="44" r="4" fill="#00ff88"/>
+</svg>
