@@ -448,6 +448,11 @@ body {
   background: rgba(255,255,255,0.04);
   border: 1px solid var(--border-hover);
 }
+.project-status.open {
+  color: var(--cyan);
+  background: rgba(0, 212, 255, 0.08);
+  border: 1px solid rgba(0, 212, 255, 0.3);
+}
 .live-dot {
   width: 6px; height: 6px;
   border-radius: 50%;
